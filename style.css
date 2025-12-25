@@ -156,7 +156,7 @@ body {
 .btn-primary {
     display: inline-block;
     padding: 1rem 2.5rem;
-    background: #22c55e;
+    background: #ef4444;
     color: white;
     text-decoration: none;
     border-radius: 50px;
@@ -166,7 +166,7 @@ body {
 }
 
 .btn-primary:hover {
-    background: #16a34a;
+    background: #dc2626;
     transform: translateY(-3px);
     box-shadow: 0 25px 30px -5px rgba(0, 0, 0, 0.2);
 }
